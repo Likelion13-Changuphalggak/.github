@@ -27,6 +27,7 @@
 ### 1. 매주 도착하는 나의 창업 레포트
 > 나의 창업에 꼭 필요한 정보와 전략, 매주 맞춤 레포트로 전해드립니다.
 <img width="900" alt="Image" src="https://github.com/user-attachments/assets/e0edb3d7-924e-4fe5-a640-465efb7d972f" />
+<br>
 매주 메일로 나의 창업에 꼭 맞는 중요한 이슈와 정보를 받아보세요. <br>
 최신 트렌드와 업계 흐름은 물론, SWOT 분석과 추천 창업 계획, 적합한 지원 사업까지<br>
 청년 창업가의 고민을 레포트 한장으로 해결해봐요.<br>
@@ -46,6 +47,7 @@
 ### 3. AI 기반 사업계획서 첨삭 & 질의응답 대비
 > 사업 계획서는 스마트하게, 질의응답은 철저하게.
  <img width="900"  alt="Image" src="https://github.com/user-attachments/assets/ca0dd534-9d7f-40e5-9ffa-da54f4b00d3b" />
+ <br>
 사업계획서 작성, 더 이상 혼자 고민하지 마세요.<br>
 AI가 문장을 다듬고 부족한 부분을 채워줍니다.<br>
 사업계획서에 따른 질의응답까지 대비할 수 있도록 예상 질문과 최적의 답변을 자동으로 제공합니다.<br>
@@ -60,10 +62,10 @@ AI가 문장을 다듬고 부족한 부분을 채워줍니다.<br>
 
 ## 👥 Our Team
 
-| 임연주 (PM) | 김서희 (FE) | 배민규 (FE) | 김혜진 (BE/AI) | 김은지 (BE) |
-|-------------|-------------|-------------|----------------|-------------|
-| <img src="https://github.com/yecometon.png" width="100" height="100"/> | <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/mgbae02.png" width="100" height="100"/> | <img src="https://github.com/khyaejin.png" width="100" height="100"/> | <img src="https://github.com/univ217.png" width="100" height="100"/> |
-| [@yecometon](https://github.com/yecometon) | [@suki186](https://github.com/suki186) | [@mgbae02](https://github.com/mgbae02) | [@khyaejin](https://github.com/khyaejin) | [@univ217](https://github.com/univ217) |
+| 임연주 (PM) | 김서희 (FE) | 배민규 (FE) | 김혜진 (BE/AI) | 김은지 (BE) | 최유성 (DE) |
+|-------------|-------------|-------------|----------------|-------------|-------------|
+| <img src="https://github.com/yecometon.png" width="100" height="100"/> | <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/mgbae02.png" width="100" height="100"/> | <img src="https://github.com/khyaejin.png" width="100" height="100"/> | <img src="https://github.com/univ217.png" width="100" height="100"/> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a28e89c-178d-4723-b298-c1a5d3779ccb" /> |
+| [@yecometon](https://github.com/yecometon) | [@suki186](https://github.com/suki186) | [@mgbae02](https://github.com/mgbae02) | [@khyaejin](https://github.com/khyaejin) | [@univ217](https://github.com/univ217) | |
 
 <br>
 
